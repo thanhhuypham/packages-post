@@ -1,0 +1,12 @@
+{
+    "name": "laravel/post",
+    "description": "Create overview post can intergrate other project",
+    "authors": [
+        {
+            "name": "Laravel",
+            "email": "info@laravelpost.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
